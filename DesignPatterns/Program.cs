@@ -10,3 +10,9 @@
 //StrategyDemo.Run();
 
 //TemplateMethodDemo.Run();
+
+//CommandDemo.Run();
+
+//CommandDemo.RunCompositeCommand();
+
+//CommandDemo.RunUndoableCommand();

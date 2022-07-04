@@ -16,3 +16,7 @@
 //CommandDemo.RunCompositeCommand();
 
 //CommandDemo.RunUndoableCommand();
+
+//ObserverDemo.Run();
+
+//MediatorDemo.Run();

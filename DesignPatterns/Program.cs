@@ -20,3 +20,7 @@
 //ObserverDemo.Run();
 
 //MediatorDemo.Run();
+
+//ChainOfResponsibilityDemo.Run();
+
+//VisitorDemo.Run();

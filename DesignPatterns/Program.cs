@@ -24,3 +24,9 @@
 //ChainOfResponsibilityDemo.Run();
 
 //VisitorDemo.Run();
+
+//CompositeDemo.Run();
+
+//AdapterDemo.Run();
+
+//DecoratorDemo.Run();

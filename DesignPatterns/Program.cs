@@ -30,3 +30,7 @@
 //AdapterDemo.Run();
 
 //DecoratorDemo.Run();
+
+//FacadeDemo.Run();
+
+FlyweightDemo.Run();

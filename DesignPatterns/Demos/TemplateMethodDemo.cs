@@ -1,23 +1,18 @@
-﻿using DesignPatterns.Patterns.TemplateMethod;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DesignPatterns.Patterns.Behavioral.TemplateMethod;
 
 namespace DesignPatterns.Demos
 {
-    internal static class TemplateMethodDemo
-    {
-        public static void Run()
-        {
-            ConcreteClassA a = new();
-            ConcreteClassB b = new();
+	internal static class TemplateMethodDemo
+	{
+		public static void Run()
+		{
+			ConcreteClassA a = new();
+			ConcreteClassB b = new();
 
-            a.TemplateMethod();
+			a.TemplateMethod();
 
-            b.TemplateMethod();
+			b.TemplateMethod();
 
-        }
-    }
+		}
+	}
 }

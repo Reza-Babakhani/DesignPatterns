@@ -1,4 +1,5 @@
-﻿using DesignPatterns.Demos;
+﻿using DesignPatterns.Demos.Creational;
+
 
 
 //MementoDemo.Run();
@@ -33,4 +34,16 @@
 
 //FacadeDemo.Run();
 
-FlyweightDemo.Run();
+//FlyweightDemo.Run();
+
+//FactoryDemo.Run();
+
+//BuilderDemo.Run();
+
+//AbstractFactoryDemo.Run();
+
+//PrototypeDemo.Run();
+
+SingletonDemo.Run();
+
+

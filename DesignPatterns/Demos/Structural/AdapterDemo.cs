@@ -1,7 +1,7 @@
 ﻿using DesignPatterns.Patterns.Structural.Adapter;
 using DesignPatterns.Patterns.Structural.Adapter.SomeLibrary;
 
-namespace DesignPatterns.Demos
+namespace DesignPatterns.Demos.Structural
 {
 	internal static class AdapterDemo
 	{

@@ -1,4 +1,4 @@
-﻿using DesignPatterns.Demos.Behavioral;
+﻿using DesignPatterns.Demos.Structural;
 
 
 
@@ -46,6 +46,12 @@
 
 //SingletonDemo.Run();
 
-InterpreterDemo.Run();
+//InterpreterDemo.Run();
+
+//BridgeDemo.Run();
+
+ProxyDemo.Run();
+
+
 
 

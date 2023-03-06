@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Patterns\Structural\Bridge\" />
-    <Folder Include="Patterns\Structural\Proxy\" />
-  </ItemGroup>
-
 </Project>

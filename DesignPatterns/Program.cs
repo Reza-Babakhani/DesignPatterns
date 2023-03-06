@@ -1,4 +1,4 @@
-﻿using DesignPatterns.Demos.Creational;
+﻿using DesignPatterns.Demos.Behavioral;
 
 
 
@@ -44,6 +44,8 @@
 
 //PrototypeDemo.Run();
 
-SingletonDemo.Run();
+//SingletonDemo.Run();
+
+InterpreterDemo.Run();
 
 

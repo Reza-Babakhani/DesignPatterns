@@ -35,4 +35,5 @@ The following 23 GoF design patterns are included in this repository:
 ✓Template Method
 ✓Visitor
 
-If you see a problem in the design patterns that needs to be fixed, either let me know or solve the problem and create a pull request.
+
+**If you see a problem in the design patterns that needs to be fixed, either let me know or solve the problem and create a pull request.**
